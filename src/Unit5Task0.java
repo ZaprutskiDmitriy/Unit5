@@ -62,6 +62,7 @@ public class Unit5Task0 {
                 System.out.println(s);
                 System.out.println("Компьютер сгорел");
             }
+
         }
     }
 }
